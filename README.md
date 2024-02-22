@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Project Logo">
-</div>
 
-**Empress Bank API** is a cutting-edge application tailored to streamline your banking transactions through a user-friendly API integration system. Connect with us at hello@aerele.in and elevate your banking experience!
+
+**Empress Bank API** is a cutting-edge application tailored to streamline your banking transactions through a user-friendly API integration system. Connect with us at and elevate your banking experience!
 
 <div align="center">
 
@@ -11,6 +11,9 @@
 [Report Bug](https://github.com/empress-eco/bank_api/issues)
 ·
 [Request Feature](https://github.com/empress-eco/bank_api/issues)
+
+</div>
+
 </div>
 
 ## About **Empress Bank API**
